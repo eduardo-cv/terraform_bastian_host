@@ -1,6 +1,6 @@
-# terraform_bastian_host
+# Terraform Bastian host - AWS
 
-Laboratório AWS - Criar um bastian host que tenha acesso apenas pelo seu ip.
+Laboratório - Criar um bastian host que tenha acesso apenas pelo seu ip.
 
 Resultado 
 
