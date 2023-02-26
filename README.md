@@ -1,5 +1,7 @@
 # Terraform Bastian host - AWS
 
+Este projeto foi criado em conjunto com Gerlucio Moura
+
 Laboratório - Criar um bastian host que tenha acesso apenas pelo seu ip.
 
 Resultado 
